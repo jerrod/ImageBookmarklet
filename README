@@ -1,0 +1,7 @@
+"Put a bird on it"
+
+This is a simple bookmarklet that replaces all the images on a webpage with whatever image you specify.
+
+To substitute your own image just replace the 'pic' variable with your own link to an image.
+
+To install the bookmarklet, minify all the code and add it to the link URL section of a bookmark.
